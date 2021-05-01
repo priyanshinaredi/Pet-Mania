@@ -1,4 +1,4 @@
-# Pet Pals
+# Pet Mania
 ### Team Members👨🏻‍💻:
 1. Kathiresan PL
 2. Priyanshi Naredi
